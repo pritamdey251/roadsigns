@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/screenBackground"
+    tools:context="com.example.test.MainActivity">
+    <Button
+        android:id="@+id/random_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="300dp"
+        android:layout_marginRight="148dp"
+        android:background="@color/buttonBackground"
+        android:onClick="randomMe"
+        android:text="@string/random"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="338dp"
+        android:layout_height="110dp"
+        android:text="@string/instructions"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="23dp"
+        tools:layout_editor_absoluteY="26dp" />
+
+</android.support.constraint.ConstraintLayout>

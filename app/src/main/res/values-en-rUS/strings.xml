@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Road Signs</string>
+    <string name="no_motorcycles">No Motor Driven Cycles sign, France</string>
+    <string name="no_parking">No Parking sign, France</string>
+    <string name="yield">Yield sign, France</string>
+    <string name="instructions">Click the RANDOM button to show a random road sign and its description.</string>
+    <string name="random">Random</string>
+    <string name="do_not_enter">Do not Enter, France</string>
+    <string name="stop">Stop sign, France</string>
+</resources>

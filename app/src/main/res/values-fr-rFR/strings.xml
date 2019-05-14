@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Signalisation routière</string>
+    <string name="instructions">Cliquez sur le bouton aléatoire pour afficher un signe de route aléatoire et sa description.</string>
+    <string name="do_not_enter">N\'entrez pas, Etats-Unis</string>
+    <string name="random">Aléatoire</string>
+    <string name="no_parking">N\'entrez pas, Etats-Unis</string>
+    <string name="stop">panneau d\'arrêt, Etats-Unis</string>
+    <string name="yield">Signe de rendement, Etats-Unis</string>
+    <string name="no_motorcycles">Aucun signe de cycle entraîné par moteur, Etats-Unis</string>
+</resources>

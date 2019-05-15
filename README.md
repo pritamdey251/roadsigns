@@ -35,7 +35,7 @@ This installs MoreLocale2 and roadsigns app in the emulator running. Once both t
 
 ### Run application
 ```shell
-./adb shell am start -n "com.example.myfirstapp/com.example.test.MainActivity" -a android.intent.action.MAIN -c android.intent.category.LAUNCHER
+./adb shell am start -n "com.example.test/com.example.test.MainActivity" -a android.intent.action.MAIN -c android.intent.category.LAUNCHER
 ```
 
 Now you should be able to view the roadsigns app running on your android emulator.

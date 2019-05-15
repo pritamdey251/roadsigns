@@ -47,5 +47,5 @@ You can switch locales by going to system settings and changing language/region 
 
 en_US   |   fr_FR
 :-------------------------:|:-------------------------:
-<img src="https://github.com/pritamdey251/roadsigns/tree/master/demo/en_US.gif" alt="" height="350" width="200">  |  <img src="https://github.com/pritamdey251/roadsigns/tree/master/demo/fr_FR.gif" alt="" height="350" width="200">
+<img src="https://github.com/pritamdey251/roadsigns/raw/master/demo/en_US.gif" alt="" height="350" width="200">  |  <img src="https://github.com/pritamdey251/roadsigns/raw/master/demo/fr_FR.gif" alt="" height="350" width="200">
 
